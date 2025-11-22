@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "AlternateBase": "#1a1b26",
+        "Base": "#24283b",
+        "BrightText": "#a9b1d6",
+        "Button": "#24283b",
+        "ButtonText": "#c0caf5",
+        "Highlight": "#bb9af7",
+        "HighlightedText": "#1a1b26",
+        "Link": "#bb9af7",
+        "Text": "#c0caf5",
+        "ToolTipBase": "#b4f9f8",
+        "ToolTipText": "#b4f9f8",
+        "Window": "#1a1b26",
+        "WindowText": "#a9b1d6",
+        "fadeAmount": 0.5,
+        "fadeColor": "#24283b"
+    },
+    "logColors": {
+        "Launcher": "#7aa2f7",
+        "Error": "#f7768e",
+        "Warning": "#e0af68",
+        "Debug": "#9ece6a",
+        "FatalHighlight": "#f7768e",
+        "Fatal": "#24283b"
+    },
+    "name": "Tokyo Night",
+    "widgets": "Fusion"
+}

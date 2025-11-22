@@ -1,0 +1,11 @@
+/*
+ * SPDX-FileCopyrightText: 2022 Catppuccin
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip { 
+	color: #c0caf5; 
+	background-color: #24283b;
+	border: 1px solid #414868
+}
