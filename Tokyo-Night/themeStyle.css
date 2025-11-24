@@ -1,11 +1,11 @@
 /*
- * SPDX-FileCopyrightText: 2022 Catppuccin
+ * SPDX-FileCopyrightText: 2022 Tokyo Night
  *
  * SPDX-License-Identifier: MIT
  */
 
-QToolTip { 
-	color: #c0caf5; 
-	background-color: #24283b;
-	border: 1px solid #414868
+QToolTip {
+  color: #c0caf5;
+  background-color: #24283b;
+  border: 1px solid #414868
 }
